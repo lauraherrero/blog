@@ -25,7 +25,7 @@ brew list
 # ssh
 ssh sirve para comunicarse de forma segura entre máquinas. Utiliza una clave pública que se corresponde con una clave privada.
 
-En el caso de la comunicación con GitHub necesitamos crear nuestro par de claves pública–privada *<a href="https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent</a>* 
+En el caso de la comunicación con GitHub necesitamos crear nuestro par de claves pública–privada <https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
 
 La clave pública se puede compartir pero la clave privada NO. Están guardadas en el directorio ~/.ssh
 
@@ -36,15 +36,15 @@ bundle install – Instala las dependencias del archivo Gemfile. El archivo Gemf
 # Otras utilidades de linea de comando
 - `cat file` – Muestra el contenido del archivo
 - `touch file` – Crear un archivo vacío
-echo Hi world – Imprime el texto
-echo Hi >> test.txt – Redirige la salida a un fichero y lo añade al final
-echo Hi > test.txt – Redirige la salida a un fichero  y lo sobreescribe
-git clone git@... – Clona el repositorio
-man command – Muestra el manual de un comando
-mv name new-name – Mueve el archivo con un nuevo nombre o lo cambia de directorio
-mv myblog/* . – Mueve todos los archivos que están dentro de myblog al directorio actual (.)
-rmdir directory – Elimina un directorio vacío
-rm -r directory – Elimina un directorio aunque no esté vacío
+- `echo Hi world` – Imprime el texto
+- `echo Hi >> test.txt` – Redirige la salida a un fichero y lo añade al final
+- `echo Hi > test.txt` – Redirige la salida a un fichero  y lo sobreescribe
+- `git clone git@...` – Clona el repositorio
+- `man command` – Muestra el manual de un comando
+- `mv name new-name` – Mueve el archivo con un nuevo nombre o lo cambia de directorio
+- `mv myblog/* .` – Mueve todos los archivos que están dentro de myblog al directorio actual (.)
+- `rmdir directory` – Elimina un directorio vacío
+- `rm -r directory` – Elimina un directorio aunque no esté vacío
 
 # Zsh vs Bash
 Zsh es la shell (el intérprete de comandos) que corre dentro de la terminal (iTerm).
