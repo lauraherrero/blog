@@ -1,30 +1,31 @@
 ---
 layout: post
 title:  "First Post"
-date:   2020-12-24 14:07:30 +0100
+date: "2020-12-24"
 categories: jekyll update
 ---
 Merry Xmas!
 
-The main objective is the creation of a blog about programming tips and utilities.
+El principal objetivo del proyecto es la creación de un blog personal sobre consejos y utilidades de programación.
 
-Every week I have class with my brother to improve and learn new things that I can apply to my job.
-Each new post will have the information of the previous class.
+Cada semana doy clase con mi hermano para mejorar y aprender cosas nuevas que pueda aplicar en mi trabajo y a nivel profesional. Cada nuevo post tendrá la información de la clase anterior.
 
 
 # Homebrew
 brew es un gestor de paquetes para instalar utilidades de linea de comandos y brew cask sirve para instalar aplicaciones de escritorio. Es igual que apt para Linux.
 
+```
 brew help
 brew search ruby
 brew install node
 brew cask install visual-studio-code
 brew list
-	
+```
+
 # ssh
 ssh sirve para comunicarse de forma segura entre máquinas. Utiliza una clave pública que se corresponde con una clave privada.
 
-En el caso de la comunicación con GitHub necesitamos crear nuestro par de claves pública–privada https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+En el caso de la comunicación con GitHub necesitamos crear nuestro par de claves pública–privada *<a href="https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent</a>* 
 
 La clave pública se puede compartir pero la clave privada NO. Están guardadas en el directorio ~/.ssh
 
@@ -33,8 +34,8 @@ Los archivos Gemfile + Gemfile.lock son a Ruby lo mismo que package.json y yarn.
 bundle install – Instala las dependencias del archivo Gemfile. El archivo Gemfile.lock no se edita a mano.
 
 # Otras utilidades de linea de comando
-cat file – Muestra el contenido del archivo
-touch file – Crear un archivo vacío
+- `cat file` – Muestra el contenido del archivo
+- `touch file` – Crear un archivo vacío
 echo Hi world – Imprime el texto
 echo Hi >> test.txt – Redirige la salida a un fichero y lo añade al final
 echo Hi > test.txt – Redirige la salida a un fichero  y lo sobreescribe
