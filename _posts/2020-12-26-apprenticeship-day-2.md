@@ -1,8 +1,5 @@
 ---
 layout: post
-title:  "Second Post"
-date: "2020-12-26"
-categories: jekyll update
 ---
 
 ## Variables de entorno

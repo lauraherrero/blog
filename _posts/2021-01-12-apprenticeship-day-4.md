@@ -1,8 +1,5 @@
 ---
 layout: post
-title:  "Fourth Post"
-date: "2021-01-12"
-categories: jekyll update
 ---
 
 ## Referencia de línea de comandos

@@ -1,8 +1,5 @@
 ---
 layout: post
-title:  "Third Post"
-date: "2021-01-03"
-categories: jekyll update
 ---
 
 ## Seguridad informática (Gestores de contraseñas)
@@ -28,8 +25,7 @@ cat laura.txt | head -n 2 – Imprime la dos primeras líneas del fichero.
 
 Una buena página web para poder practicar ejercicios con bash es: <https://www.hackerrank.com/domains/shell/>
 
-![Alt text](/../<x main>/path/to/hackerRank1.png?raw=true "Optional Title") 
+![Alt text](/assets/images/hackerrank1.png)
 
 ## Blog
 Un blog de referencia, Julia Evans <https://jvns.ca/>
-

@@ -1,8 +1,5 @@
 ---
 layout: post
-title:  "First Post"
-date: "2020-12-24"
-categories: jekyll update
 ---
 Merry Xmas!
 
