@@ -22,6 +22,8 @@ url: "https://lauraherrero.github.io" # the base hostname & protocol for your si
 twitter_username: lauraherrero36
 github_username:  lauraherrero
 
+permalink: :title
+
 # Build settings
 markdown: kramdown
 plugins:
