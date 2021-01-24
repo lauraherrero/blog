@@ -11,7 +11,7 @@ Cada semana doy clase con mi hermano para mejorar y aprender cosas nuevas que pu
 ## Homebrew
 brew es un gestor de paquetes para instalar utilidades de linea de comandos y brew cask sirve para instalar aplicaciones de escritorio. Es igual que apt para Linux.
 
-```sh
+```sh 
 brew help
 brew search ruby
 brew install node

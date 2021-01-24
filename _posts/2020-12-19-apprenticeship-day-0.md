@@ -1,22 +1,15 @@
 ---
 layout: post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Saludos!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+El objetivo de este proyecto es la creación de un blog personal.  
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+Cada semana doy clase con mi hermano sobre distintos aspectos de la programación que me sirvan para aprender y/o mejorar en mi carrera profesional.  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+La idea inicial de este blog es añadir posts sobre las cosas que tratamos con la finalidad de llevar un control sobre lo aprendido y que pueda servir de guía en momentos clave para mí o para otros. También como una referencia sobre mi evolución. Después de mi paso por <a href="https://adalab.es/">**Adalab**</a>, considero fundamental seguir aprendiendo y afrontar nuevos retos. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Mi hermano dice que puedes llegar a hacer cualquier cosa que te propongas en la vida.  
+Yo voy a ir mostrando hasta donde llego.
+
