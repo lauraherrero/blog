@@ -25,7 +25,19 @@ cat laura.txt | head -n 2 – Imprime la dos primeras líneas del fichero.
 
 Una buena página web para poder practicar ejercicios con bash es: <https://www.hackerrank.com/domains/shell/>
 
-![Alt text](/assets/images/hackerrank1.png)
+<br>Instrucciones del problema.
+
+![Alt text](/assets/images/hackerrank2.png)
+
+
+<br> Consola para poder escribir la solución.
+
+![Alt text](/assets/images/hackerrank3.png)
+
+
+<br> Comprobación mediante test del código que hemos escrito.
+
+![Alt text](/assets/images/hackerrank4.png)
 
 ## Blog
 Un blog de referencia, Julia Evans <https://jvns.ca/>
