@@ -14,8 +14,8 @@ Para ver el contenido de una variable de entorno, utilizamos el prefijo $, ejemp
 La diferencia entre el path relativo y el absoluto, es que el relativo funciona desde el directorio en el que nos encontremos, mientras que el path absoluto funciona desde cualquier localización.
 
 A veces podemos utilizar el path absoluto de distintas formas, esta 3 líneas son equivalentes:
-{% highlight ruby %}
+```
 ls /Users/lauraherrero/Desktop/Laura/Blog/
 ls $HOME/Desktop/Laura/Blog/
 ls ~/Desktop/Laura/Blog/
-{% endhighlight %}
+```

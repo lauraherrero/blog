@@ -2,6 +2,15 @@
 layout: post
 ---
 
+## Blog
+Durante el día de hoy hemos eliminado el theme mínima e incorporado su estructura de fichero y directorios en el repositorio. De esa forma, ahora somos capaces de modificar los estilos a nuestro gusto.
+<https://jekyllrb.com/docs/themes/#overriding-theme-defaults/>
+
+El CSS que finalmente se utiliza está comprimido de esa forma el peso de la página es menor. <https://jekyllrb.com/docs/assets/#sassscss/>
+
+Utilizar la versión minified es algo muy común, por ejemplo JQuery nos da la versión uncompressed y minified que ocupan mucho menos. <https://code.jquery.com/>
+
+
 ## Línea de comandos
 Unix philosophy 
 
