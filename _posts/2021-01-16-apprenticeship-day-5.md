@@ -2,15 +2,6 @@
 layout: post
 ---
 
-## Blog
-Durante el día de hoy hemos eliminado el theme mínima e incorporado su estructura de fichero y directorios en el repositorio. De esa forma, ahora somos capaces de modificar los estilos a nuestro gusto.
-<https://jekyllrb.com/docs/themes/#overriding-theme-defaults/>
-
-El CSS que finalmente se utiliza está comprimido de esa forma el peso de la página es menor. <https://jekyllrb.com/docs/assets/#sassscss/>
-
-Utilizar la versión minified es algo muy común, por ejemplo JQuery nos da la versión uncompressed y minified que ocupan mucho menos. <https://code.jquery.com/>
-
-
 ## Línea de comandos
 Unix philosophy 
 
@@ -25,7 +16,7 @@ Se puede crear un fichero global .gitignore en el que ignorar ficheros independi
 
 También existe un fichero global con la configuración de Git: __~/.gitconfig__
 
-Semantic Versioning
+## Semantic Versioning
 <https://semver.org/>
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
@@ -66,5 +57,3 @@ Programming languages documentation <https://devdocs.io/>
 
 ## Testing
 Piramide de testing <https://www.browserstack.com/guide/testing-pyramid-for-test-automation/>
-
-
