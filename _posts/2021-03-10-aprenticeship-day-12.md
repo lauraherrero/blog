@@ -41,8 +41,6 @@ Al renombrar el repositorio en GitHub la referencia remota (URL) cambia, podemos
 ## Sistema binario
 El sistema binario es un sistema donde los números son representados por dos cifras (0, 1) <https://es.wikipedia.org/wiki/Sistema_binario/>
 
-En Markdonw se pueden meter tablas, investiga sobre ello
-
 | Decimal | Binario |
 | -- | -- |
 | 0 | 0 | 
